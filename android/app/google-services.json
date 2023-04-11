@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1058580689959",
+    "project_id": "egoi-user-app",
+    "storage_bucket": "egoi-user-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058580689959:android:6da2e9bffdba786a3a0a02",
+        "android_client_info": {
+          "package_name": "com.egoi_user.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058580689959-9t69rn4m1lma53r9j7bmgebijh4reqeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egoi_user.flutter",
+            "certificate_hash": "39d1bce2baea2025a9aaaf463b807cf8b73957a0"
+          }
+        },
+        {
+          "client_id": "1058580689959-ovd0av7hlrtu9kofbetj3j1kavpuackn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCHbdVVE5Hwk22jfEsxf2XGKzMd-Jr4ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058580689959-ovd0av7hlrtu9kofbetj3j1kavpuackn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
